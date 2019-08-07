@@ -1,0 +1,23 @@
+{
+	"PEOPLE" :[
+		{
+			"ID" : "0001",
+			"NOME" : "JOAO",
+			"INFO": {
+				"CARGO"   : "DEVELOPER",
+				"ENSINO"  : "MEDIO",
+				"SALARIO" : "1289.32"
+			}
+
+		},
+		{
+			"ID" : "0002",
+			"NOME" : "JOSE",
+			"INFO" : {
+				"CARGO"   : "DEVELOPER",
+				"ENSINO"  : "SUPERIOR",
+				"SALARIO" : "2036.87"
+			}
+		}
+	]
+}
